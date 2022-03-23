@@ -1,9 +1,9 @@
-# Awards
+# Awards-App
 ## Author
 Fred Papa
 
 # Description
-This is an Awwards clone app. It displayes different projects posted by different users. The user has to register and login to the app for them to see the ratings of the projects and also to rate the project. The users can also post their projects and have it reviewed by other users. 
+This is an Awards clone app. It displays different projects posted by different users. The user has to register and login to the app for them to see the ratings of the projects and also to rate the project. The users can also post their projects and have it reviewed by other users. 
 
 # Setup Installation
 - Clone or download and unzip the repository from github https://github.com/PapaFreddie/Awards-App
