@@ -1,4 +1,5 @@
 # Awards-App
+This is an Awards app that dispay deifferent projects by different users.
 ## Author
 Fred Papa
 
