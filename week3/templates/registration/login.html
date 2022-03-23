@@ -2,14 +2,14 @@
 {% load bootstrap4 %}
 
 {% block content %}
-<div class="container" style="background: linear-gradient(141deg,#056b5b 35%,#9dd85c 103%); color:aliceblue;"><br><br>
+<div class="container" style="background: linear-gradient(141deg,#cbd3d2 35%,#909e81 103%); color:rgb(17, 17, 17);"><br><br>
     <div class="row sign-up">
         <div class="col-md-4">
             {% if form.errors %}
             <p class="small">Password or Username is incorrect</p>
             {% endif %}
             <div class="section">
-                <h1 style='text-align:center;'><b>Awwards</b></h1>
+                <h4 style='text-align:center;'><b>Awards</b></h4>
                 <div class="form-section">
                     <form action="/accounts/login/" method="POST">
                         {% csrf_token %}
