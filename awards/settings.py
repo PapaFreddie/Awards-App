@@ -30,7 +30,7 @@ SECRET_KEY = '6#$v139rsh%7dobca)0879gjqee&jgn50y*8854ft325+e0g_8'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['127.0.0.1', 'awardssystem.herokuapp.com']
 
 
 # Application definition
