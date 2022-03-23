@@ -1,13 +1,14 @@
 # Awards
 ## Author
-- Kiprotich Amos Koech
+Fred Papa
+
 # Description
 This is an Awwards clone app. It displayes different projects posted by different users. The user has to register and login to the app for them to see the ratings of the projects and also to rate the project. The users can also post their projects and have it reviewed by other users. 
 
 # Setup Installation
-- Clone or download and unzip the repository from github https://github.com/amoskipz/Awards
+- Clone or download and unzip the repository from github https://github.com/PapaFreddie/Awards-App
 
-- You can use this command (git clone https://github.com/amoskipz/Awards) to clone the project to your machine if you have git.
+- You can use this command (git clone https://github.com/PapaFreddie/Awards-App) to clone the project to your machine if you have git.
 
 - cd into the project folder and open in text editor either code. or atom.
 
@@ -35,4 +36,4 @@ No known bugs at the moment
 # Contact 
 Details If you have any suggestion or modification that can better this project, feel free to contact me. Here are my details:
 
-Kiprotich Amos Koech  koechkipz03@gmail.com
+fredpapah20@gmail.com
